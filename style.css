@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+img:hover{
+    width: 200px;
+}
+img{
+border-radius: 10px;
+}
